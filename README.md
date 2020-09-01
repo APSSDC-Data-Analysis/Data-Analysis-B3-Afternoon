@@ -18,8 +18,7 @@ Find Recorded Sessions link here -- <a href="https://drive.google.com/drive/fold
 ### Pandas 
 
 1. [Pandas Official website](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
-2. [Pandas cheat shhet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-3. 
+2. [Pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 ### Data Prepreccessing 
 
