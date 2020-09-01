@@ -18,3 +18,5 @@ Find Recorded Sessions link here -- <a href="https://drive.google.com/drive/fold
 ### Pandas 
 
 1.[Pandas Official website](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
+
+### [ways to detect outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)
