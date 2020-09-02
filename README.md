@@ -8,6 +8,8 @@ Find Recorded Sessions link here -- <a href="https://drive.google.com/drive/fold
 
 # Important Links for future reference
 
+### [Python syllabus](https://github.com/LavanyaPolamarasetty/Python_syllabus/)
+
 ### Numpy
 
 1. [Anaconda Software Downloading & Installing Step by Step](https://medium.com/@anilkumarteegala/getting-started-with-anaconda-and-jupyter-notebook-on-windows-68e68a2a3bbb)
