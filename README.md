@@ -48,7 +48,7 @@ Find Recorded Sessions link here -- <a href="https://drive.google.com/drive/fold
 
 1. [100 numpy exercises](https://github.com/rougier/numpy-100).
 2. [Pandas Exercises](https://github.com/guipsamora/pandas_exercises)
-3. [Data Analysis Projects](freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/).
+3. [Data Analysis Projects](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects).
 4. GitHub is a `Version Control` tool everyone should learn few bacic commands - [GitHub 101](https://anilkumarteegala.github.io/GitHub-101/).
 5. Everyone should have [LinkedIn](https://www.linkedin.com/) account for future job purpose build nice LinkedIn profile and try to Create one portfolio of yours.
 6. Finally few free courses avaliable due to Covid19 which I have sorted and written [Medium Blog](https://medium.com/@anilkumarteegala/free-online-certificate-courses-you-can-start-during-covid-19-epidemic-8cbfdce1a49e).
